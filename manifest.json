@@ -1,0 +1,9 @@
+{
+  "id": "word-count-heatmap",
+  "name": "Word Count Heatmap",
+  "version": "0.1.0",
+  "minAppVersion": "1.0.0",
+  "description": "GitHub-style heatmap of words written per day. Click a day to see words written vs removed and files created vs removed.",
+  "author": "kray404",
+  "isDesktopOnly": false
+}

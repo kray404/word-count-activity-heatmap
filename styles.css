@@ -1,0 +1,22 @@
+.wh-nav { display: flex; align-items: center; gap: 4px; margin-bottom: 8px; }
+.wh-year { font-weight: var(--font-semibold); min-width: 3em; text-align: center; }
+.wh-nav button:disabled { opacity: 0.3; pointer-events: none; }
+.wh-grid {
+  display: grid;
+  grid-auto-flow: column;
+  grid-template-rows: repeat(7, 11px);
+  grid-auto-columns: 11px;
+  gap: 3px;
+  overflow-x: auto;
+  padding-bottom: 8px;
+}
+.wh-cell { border-radius: 2px; cursor: pointer; background: var(--background-modifier-border); }
+.wh-l1 { background: rgba(var(--color-green-rgb), 0.3); }
+.wh-l2 { background: rgba(var(--color-green-rgb), 0.55); }
+.wh-l3 { background: rgba(var(--color-green-rgb), 0.8); }
+.wh-l4 { background: rgb(var(--color-green-rgb)); }
+.wh-future { opacity: 0.35; cursor: default; }
+.wh-cell.is-selected { outline: 2px solid var(--text-normal); }
+.wh-link { cursor: pointer; color: var(--text-accent); }
+.wh-added { color: var(--color-green); font-weight: var(--font-semibold); }
+.wh-removed { color: var(--color-red); font-weight: var(--font-semibold); }
