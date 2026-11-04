@@ -1,4 +1,4 @@
-# Word Count Heatmap
+# Word Count Activity Heatmap
 
 GitHub-style heatmap of words written per day. Click a day to see words written and removed, and files created and removed.
 
