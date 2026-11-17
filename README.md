@@ -6,4 +6,4 @@ Open it from the ribbon or the command palette. Choose which folders to track in
 
 Works with Obsidian Sync if you turn on "Installed community plugins" in the Sync settings of every device before you start typing.
 
-<img width="1160" height="814" alt="image" src="https://github.com/user-attachments/assets/51155039-ee30-4226-933b-6afac79480cc" />
+<img width="918" height="612" alt="preview" src="https://github.com/user-attachments/assets/9a2880f1-b9c4-4734-9d47-ea986a5ef957" />
